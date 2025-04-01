@@ -1,0 +1,38 @@
+
+## :book: Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation
+
+
+> [[Paper](harlanhong.github.io)] &emsp; [[Project Page](https://harlanhong.github.io/publications/actalker/index.html)]  &emsp; [[Demo](https://www.youtube.com/watch?v=nahsJNjWzGo&t=1s)]<br>
+<!-- > [Fa-Ting Hong](https://harlanhong.github.io), [Longhao Zhang](https://dblp.org/pid/236/7382.html), [Li Shen](https://scholar.google.co.uk/citations?user=ABbCaxsAAAAJ&hl=en), [Dan Xu](https://www.danxurgb.net) <br> -->
+<!-- > The Hong Kong University of Science and Technology, Alibaba Cloud -->
+> [Fa-Ting Hong](https://harlanhong.github.io)<sup>1,2</sup>, Zunnan Xu<sup>2,3</sup>, Zixiang Zhou<sup>2</sup>, Jun Zhou<sup>2</sup>, Xiu Li<sup>3</sup>, Qin Lin<sup>2</sup>, Qinglin Lu<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup> <br>
+> <sup>1</sup>The Hong Kong University of Science and Technology<br>
+> <sup>2</sup>Tencent<br>
+> <sup>3</sup>Tsinghua University
+
+
+
+
+:triangular_flag_on_post: **Updates**  
+
+&#9745; arXiv paper is released [here](https://arxiv.org/pdf/2410.01647) !
+
+## Framework 
+<img src="assets/framework.jpg">
+
+## Expression Driven Samples
+https://github.com/user-attachments/assets/fc46c7cd-d1b4-44a6-8649-2ef973107637
+
+## Audio Dirven Samples
+https://github.com/user-attachments/assets/8f9e18a0-6fff-4a31-bbf4-c21702d4da38
+
+## Audio-Visual Driven Samples
+https://github.com/user-attachments/assets/3d8af4ef-edc7-4971-87b6-7a9c77ee0cb2
+
+https://github.com/user-attachments/assets/2d12defd-de3d-4a33-8178-b5af30d7f0c2
+
+
+
+### :e-mail: Contact
+
+If you have any question or collaboration need (research purpose or commercial purpose), please email `fhongac@connect.ust.hk`.
