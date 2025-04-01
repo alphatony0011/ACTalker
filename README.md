@@ -1,8 +1,8 @@
 
 ## :book: Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation
 
-<img src="assets/teaser_compressed.jpg">
-> [[Paper](harlanhong.github.io)] &emsp; [[Project Page](https://harlanhong.github.io/publications/actalker/index.html)]  &emsp; [[Demo](https://www.youtube.com/watch?v=nahsJNjWzGo&t=1s)]<br>
+
+> [[Paper](https://harlanhong.github.io)] &emsp; [[Project Page](https://harlanhong.github.io/publications/actalker/index.html)]  &emsp; [[Demo](https://www.youtube.com/watch?v=nahsJNjWzGo&t=1s)]<br>
 <!-- > [Fa-Ting Hong](https://harlanhong.github.io), [Longhao Zhang](https://dblp.org/pid/236/7382.html), [Li Shen](https://scholar.google.co.uk/citations?user=ABbCaxsAAAAJ&hl=en), [Dan Xu](https://www.danxurgb.net) <br> -->
 <!-- > The Hong Kong University of Science and Technology, Alibaba Cloud -->
 > [Fa-Ting Hong](https://harlanhong.github.io)<sup>1,2</sup>, Zunnan Xu<sup>2,3</sup>, Zixiang Zhou<sup>2</sup>, Jun Zhou<sup>2</sup>, Xiu Li<sup>3</sup>, Qin Lin<sup>2</sup>, Qinglin Lu<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup> <br>
@@ -10,7 +10,7 @@
 > <sup>2</sup>Tencent<br>
 > <sup>3</sup>Tsinghua University
 
-
+<img src="assets/teaser_compressed.jpg">
 :triangular_flag_on_post: **Updates**  
 
 &#9745; arXiv paper is released [here](https://arxiv.org/pdf/2410.01647) !
