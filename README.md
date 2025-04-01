@@ -16,7 +16,7 @@
 &#9745; arXiv paper is released [here](https://arxiv.org/pdf/2410.01647) !
 
 ## Framework 
-<img src="assets/framework.jpg">
+<img src="assets/framework.png">
 
 ## TL;DR:
 We propose ACTalker, an end-to-end video diffusion framework for talking head synthesis that supports both single and multi-signal control (e.g., audio, pose, expression). ACTalker uses a parallel mamba-based architecture with a gating mechanism to assign different control signals to specific facial regions, ensuring fine-grained and conflict-free generation. A mask-drop strategy further enhances regional independence and control stability. Experiments show that ACTalker produces natural, synchronized talking head videos under various control combinations.
