@@ -1,7 +1,7 @@
 
 ## :book: Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation
 
-
+<img src="assets/teaser_compressed.jpg">
 > [[Paper](harlanhong.github.io)] &emsp; [[Project Page](https://harlanhong.github.io/publications/actalker/index.html)]  &emsp; [[Demo](https://www.youtube.com/watch?v=nahsJNjWzGo&t=1s)]<br>
 <!-- > [Fa-Ting Hong](https://harlanhong.github.io), [Longhao Zhang](https://dblp.org/pid/236/7382.html), [Li Shen](https://scholar.google.co.uk/citations?user=ABbCaxsAAAAJ&hl=en), [Dan Xu](https://www.danxurgb.net) <br> -->
 <!-- > The Hong Kong University of Science and Technology, Alibaba Cloud -->
@@ -9,8 +9,6 @@
 > <sup>1</sup>The Hong Kong University of Science and Technology<br>
 > <sup>2</sup>Tencent<br>
 > <sup>3</sup>Tsinghua University
-
-
 
 
 :triangular_flag_on_post: **Updates**  
@@ -34,8 +32,6 @@ https://github.com/user-attachments/assets/3d8af4ef-edc7-4971-87b6-7a9c77ee0cb2
 
 https://github.com/user-attachments/assets/2d12defd-de3d-4a33-8178-b5af30d7f0c2
 
-## TL;DR:
-We propose ACTalker, an end-to-end video diffusion framework for talking head synthesis that supports both single and multi-signal control (e.g., audio,  expression). ACTalker uses a parallel mamba-based architecture with a gating mechanism to assign different control signals to specific facial regions, ensuring fine-grained and conflict-free generation. A mask-drop strategy further enhances regional independence and control stability. Experiments show that ACTalker produces natural, synchronized talking head videos under various control combinations.
 
 ### :e-mail: Contact
 
