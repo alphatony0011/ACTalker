@@ -13,7 +13,7 @@
 <img src="assets/teaser_compressed.jpg">
 :triangular_flag_on_post: **Updates**  
 
-&#9745; arXiv paper is released [here](https://arxiv.org/pdf/2410.01647) !
+&#9745; arXiv paper is released [here](https://arxiv.org/abs/2504.02542) !
 
 ## Framework 
 <img src="assets/framework.png">
