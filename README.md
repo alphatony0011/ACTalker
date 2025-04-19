@@ -36,3 +36,14 @@ https://github.com/user-attachments/assets/2d12defd-de3d-4a33-8178-b5af30d7f0c2
 ### :e-mail: Contact
 
 If you have any question or collaboration need (research purpose or commercial purpose), please email `fhongac@connect.ust.hk`.
+
+# 📍Citation 
+Please feel free to leave a star⭐️⭐️⭐️ and cite our paper:
+```bibtex
+@article{hong2025audio,
+  title={Audio-visual controlled video diffusion with masked selective state spaces modeling for natural talking head generation},
+  author={Hong, Fa-Ting and Xu, Zunnan and Zhou, Zixiang and Zhou, Jun and Li, Xiu and Lin, Qin and Lu, Qinglin and Xu, Dan},
+  journal={arXiv preprint arXiv:2504.02542},
+  year={2025}
+}
+``` 
