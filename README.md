@@ -1,5 +1,5 @@
 
-## :book: Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation
+## :book: Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation (ICCV 2025)
 
 
 > [[Paper](https://arxiv.org/abs/2504.02542)] &emsp; [[Project Page](https://harlanhong.github.io/publications/actalker/index.html)]  &emsp; [[HuggingFace](https://huggingface.co/papers/2504.02542)]<br>
